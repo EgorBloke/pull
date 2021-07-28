@@ -1,0 +1,4 @@
+#ifndef MYGRAPHICVIEW_H
+#define MYGRAPHICVIEW_H
+
+#endif // MYGRAPHICVIEW_H
